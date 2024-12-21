@@ -1,0 +1,20 @@
+For as long as he could remember, Haladrin Goldia's parents were travelling merchants. Always moving from town to town, never staying anywhere longer than a few days, Haladrin never had the chance to make friends or learn in schools, and his knowledge is primarily through what his parents taught him and what he picked up during their travels. Through this, he became wise in the ways of trade and knew well how to deal with various kinds of people.
+
+When Haladrin was 14, he and his family happened to pass through Southampton for trade. Shortly before arriving, they were attacked by a lone bandit. Realizing that the bandit hadn't noticed Haladrin yet, his father motioned for him to hide, and so he did. As travell-ing merchants, the Goldias never had much spare change, and in this particular instance, they were unable to hire a guard and thus defenseless. The bandit, thirsty for blood and coin, killed his parents without a chance for negotiations. Seeing this, Haladrin lost control of his emotions, and by some turn of fate, managed to manipulate the shadow of the cart to conceal himself and enact revenge on the bandit with some loose rope from the cart. This is how he first realized he had the powers of a shadowsworn.
+
+Knowing that he couldn't stay around lest more danger show itself, he grabbed only what supplies and goods he could carry inside a cloth normally used to cover goods from rain, as well as his father's pocket watch to remember his parents by, and proceeded alone, mourning along the way, toward Southampton. Without any connections and just a small amount of coin made from selling what he carried with him, he turned to living day by day, performing odd jobs and using his newfound powers to learn combat instincts against creatures outside of town.
+
+When he turned 16, he tried to join Southampton’s militia, but they turned him away in fear of his command over shadows. This led him to start hiding that ability from people he didn't consider close and trusted, instead taking to the skills of a slayer, with stealth skills heightened by his ability to bend shadows and see in the dark.
+
+It's been 4 years since then, and, until recently, Haladrin could frequently be found at a local tavern or buying potions from an apothecary. Even though he looks gloomy, he’s always gone out of his way to help others, and people know now that he means no harm. Recently, someone snuck into his room at the inn during the night and stole the pocket watch he'd kept for all those years. Discovering this, he vowed to find the person responsible and take it back. Hearing a plausible rumor, he sets his sights on the town of Hamburg.
+
+---
+# Haladrin's Notes
+## [8-23 - Hamburg](../sessions/8-23%20-%20Hamburg)
+Having met with an interesting group of individuals by chance at the Fairway Inn during a meal, we exchanged stories of our past and why we ended up in Hamburg. Recognizing that these people are truthful, we decided to ally ourselves in my search for my watch, as the rest wait for response to a letter to someone important in the royal guard.
+
+We visited the Curious Dog Tavern for information, where we picked up the stray Eliel, who now follows Joseph as a page to make up for trying to steal his money (she is remorseful about it). While there, I met Mick, an informant who sold me information that a pocket watch had passed through some hands here in Hamburg. He says that it was bought by a person who goes by the name "Slash" Morone, and he tells me where to find this person.
+
+The next day, we set out to the location in question and met this Morone after being "tested" by her thugs (which we promptly knocked unconscious). I bluffed that the pocket watch was something I was requested to obtain, which allowed me to get it for a price of 5gp.
+
+Having positively viewed our time together, Joseph's group invited me to travel with them. I accepted, having no true place to go prior and no close companions or locations to tie me down.

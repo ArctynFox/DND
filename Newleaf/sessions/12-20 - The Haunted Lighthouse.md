@@ -1,0 +1,6 @@
+# The Pirate Skeleton Captain
+As we come to the top of the stairs of the lighthouse, a booming voice shouts "You will regret setting foot in my domain. Your souls are mine!" The walls of the top room are bathed in green, with a glowing crystal in the center of the room. The one who spoke is at the opposite end of the room, and he appears like a skeleton wearing a pirate's attire. Around the room are 6 other pirate-looking forms, but they are apparitions, rather than skeletons like the captain himself. They immediately begin attacking us.
+
+After a long battle in which the pirate captain skeleton kept repairing itself and was being protected by the incorporeal ghost crew, we manage to down the captain. Kashamere finds a glowing green crystal with pulsating light in the room and touches it, causing himself to get possessed. Celessa and Lokar pin him down until he comes to his senses. Meanwhile, Elendar restores the crystal in the center of the room. Lokar then attempts to destroy the small crystal which possessed Kashamere, which caused it to explode, but also relieved the lighthouse itself of the possession it was under by an elemental.
+
+Elendar restores us all to health since we were all knocked out by the blast, and then we return to town with the items we picked off of the skeleton captain.

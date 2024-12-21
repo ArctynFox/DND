@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "84251d3152ccc58c",
+    "type": "split",
+    "children": [
+      {
+        "id": "c3a51018f3cd536b",
+        "type": "split",
+        "children": [
+          {
+            "id": "7cf523195137e826",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "13726f3bcea596bf",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "character/Background.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Background"
+                }
+              },
+              {
+                "id": "828152fe1c5a2972",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "character/Spells.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Spells"
+                }
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "0b7eb94c8039e8b1",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "9b97bce3d5987c16",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "sessions/9-20 - Infiltrating Portent.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "9-20 - Infiltrating Portent"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1d0f9923a6035b9a",
+    "type": "split",
+    "children": [
+      {
+        "id": "e2e1c6845f76756d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bc95c0eb99a7ade8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "9daab90d07e67956",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "9a49668eb82c81b0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "02afdce12ec28ca0",
+    "type": "split",
+    "children": [
+      {
+        "id": "a2e50967145721ba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b9f690c7f2ad5f88",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "sessions/9-20 - Infiltrating Portent.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 9-20 - Infiltrating Portent"
+            }
+          },
+          {
+            "id": "46553dbc0d869a8b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "sessions/9-20 - Infiltrating Portent.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 9-20 - Infiltrating Portent"
+            }
+          },
+          {
+            "id": "645e0a76be559be4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "873ee89db998ae98",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "sessions/9-20 - Infiltrating Portent.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 9-20 - Infiltrating Portent"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "9b97bce3d5987c16",
+  "lastOpenFiles": [
+    "character/Cedwyn.por-19376-19380-9224.lwdtemp",
+    "character/Extra Items.md",
+    "sessions/9-20 - Infiltrating Portent.md",
+    "character/Cedwyn.por-19376-19380-26692.lwdtemp",
+    "sessions/9-13 - Directives.md",
+    "character/Ring of Fateweaving.md",
+    "Darkleaf.md",
+    "character/Spells.md",
+    "character/Background.md",
+    "sessions"
+  ]
+}

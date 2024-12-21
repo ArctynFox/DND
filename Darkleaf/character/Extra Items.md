@@ -1,0 +1,1 @@
+- Ruby - 500gp - A gift from Sage after the battle at Portent
